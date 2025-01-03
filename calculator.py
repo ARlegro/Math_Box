@@ -8,5 +8,7 @@ def subtract(a, b):
 def divide(a, b):
     return a / b;        
 
-## revert 완료    
-
+add get_abs(a, b):
+    if ( a - b > 0){
+        good;
+    }
